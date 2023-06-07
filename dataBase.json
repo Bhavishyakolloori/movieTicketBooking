@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "Bhavishya Kolloori ",
+      "email": "bhavishyakolloori@gmail.com",
+      "numberOfTickets": 1,
+      "id": 1
+    },
+    {
+      "name": "Bhavishya Kolloori ",
+      "email": "bhavishyakolloori@gmail.com",
+      "numberOfTickets": 1,
+      "id": 2
+    },
+    {
+      "MovieName": "All Rise",
+      "Name": "bhavishya",
+      "Email": "bhavishyaKolloori@gmail.com",
+      "NoofTickets": "4",
+      "id": 3
+    },
+    {
+      "MovieName": "All Rise",
+      "Name": "bhavishya",
+      "Email": "bhavishyaKolloori@gmail.com",
+      "NoofTickets": "4",
+      "id": 4
+    },
+    {
+      "MovieName": "All Rise",
+      "Name": "sathvik",
+      "Email": "bhavishyaKolloori@gmail.com",
+      "NoofTickets": "4",
+      "id": 5
+    },
+    {
+      "MovieName": "All American",
+      "Name": "sathvik",
+      "Email": "bhavishyaKolloori@gmail.com",
+      "NoofTickets": "7",
+      "id": 6
+    }
+  ]
+}

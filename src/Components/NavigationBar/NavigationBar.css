@@ -1,0 +1,26 @@
+.navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+  .navbar-nav.nav-item {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .navbar-toggler {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  @media (max-width: 767px) {
+    .navbar-collapse {
+      display: none;
+    }
+  
+    .navbar-collapse.show {
+      display: block;
+    }
+  }
+  
